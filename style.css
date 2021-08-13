@@ -1,0 +1,51 @@
+body {
+    color: white;
+    background-color: cadetblue;
+    font-family: cursive;
+    background-image: url("tony.png");
+    background-repeat: no-repeat;
+}
+
+#heading {
+    color: black;
+    font-family: fantasy;
+    font-size: 35px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 75px;
+}
+
+p {
+    font-size: 20px;
+    margin-right: 1200px;
+    margin-top: 150px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+canvas {
+    width: 150px;
+    height: 150px;
+    box-shadow: 7px 7px 7px black;
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+video {
+    box-shadow: 7px 7px 7px black;
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 10px;
+    background-color: grey;
+}
